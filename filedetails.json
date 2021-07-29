@@ -1,5 +1,5 @@
 {
-  "ovpn_file":[
+  "vpn1_file":[
     {"id":0,"file":"client
    setenv FORWARD_COMPATIBLE 1
 client
