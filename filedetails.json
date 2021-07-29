@@ -98,6 +98,28 @@ Cw6G0PMnylqx3JKVORkiAjMz21Up2MGp78bZFV73VykVvvpr9m3YQG+h1l/5Te8p
 </key>
 
 key-direction 1
+     <tls-auth>
+#
+# 2048 bit OpenVPN static key (Server Agent)
+#
+-----BEGIN OpenVPN Static key V1-----
+28277fd25b6b5f8e4188ade5d7618764
+c051eb00661582d9887449ca97e509de
+8801698c101863f0772cb333f0049e5d
+74f5149aebfcb7ea35d9fa809d772a0f
+cf7ea11468300529c243c5ea7423d97b
+847634af2acf008a76ea38e34a36d4e3
+1dd886985db810b25958395d53fe6d83
+d1b4a2c5b6498cacc15caa51ac9c09d4
+aafab59dd3019dcba97a8b6d894eece3
+38660695065e59f17600903667daeba9
+a017104c671c4dd4d5214ec78f86b478
+83d981fb33fd0c732075b9afba7d121c
+e3eb443c4fbd20b67d7956e50bb0eb23
+897a42ca9c612268f801862af6671c5c
+43b48ec1a979db26606db67a9f38b80b
+f1586b4eec1ac27be21dea881719da5a
+-----END OpenVPN Static key V1-----
 
 </tls-auth>"},
     {"id":1,"file":""}]
