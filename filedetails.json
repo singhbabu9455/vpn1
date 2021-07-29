@@ -1,6 +1,6 @@
-# Automatically generated OpenVPN client config file
-# Generated on Thu Jul 29 01:35:13 2021 by united-utates-server-vpn-vm
-
+{
+"ovpn_file":[
+  {"id":0,"file":"client
 # Default Cipher
 cipher AES-256-CBC
 # Note: this config file contains inline private keys
@@ -8,13 +8,13 @@ cipher AES-256-CBC
 # Note: this configuration is user-locked to the username below
 # OVPN_ACCESS_SERVER_USERNAME=trot
 # Define the profile name of this particular configuration file
-# OVPN_ACCESS_SERVER_PROFILE=trot@34.134.32.173/AUTOLOGIN
+# OVPN_ACCESS_SERVER_PROFILE=trot@34.134.151.162/AUTOLOGIN
 # OVPN_ACCESS_SERVER_AUTOLOGIN=1
 # OVPN_ACCESS_SERVER_CLI_PREF_ALLOW_WEB_IMPORT=True
 # OVPN_ACCESS_SERVER_CLI_PREF_BASIC_CLIENT=False
 # OVPN_ACCESS_SERVER_CLI_PREF_ENABLE_CONNECT=False
 # OVPN_ACCESS_SERVER_CLI_PREF_ENABLE_XD_PROXY=True
-# OVPN_ACCESS_SERVER_WSHOST=34.134.32.173:443
+# OVPN_ACCESS_SERVER_WSHOST=34.134.151.162:443
 # OVPN_ACCESS_SERVER_WEB_CA_BUNDLE_START
 # -----BEGIN CERTIFICATE-----
 # MIIDHDCCAgSgAwIBAgIEYQIATDANBgkqhkiG9w0BAQsFADBHMUUwQwYDVQQDDDxP
@@ -206,3 +206,6 @@ f1586b4eec1ac27be21dea881719da5a
 ## y0Sp10YWnxUnCvQo3Pd2CqytQmXxn4nq/Xe8wyFZwPL+Vr2yyGcmUan8787+sixd
 ## E+msWAA/VVbrYp51e/GPWZKXhwQMNPmENEAMfbYutsA=
 ## -----END CERTIFICATE-----
+</tls-auth>"},
+{"id":1,"file":""}]
+}
