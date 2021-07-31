@@ -122,4 +122,5 @@ ffa70408c2f060fd01002265b5126a3c
 -----END OpenVPN Static key V1-----
 </tls-auth>
 
+   }
 }
